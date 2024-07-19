@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirGoldenBoy.
-- 👀 I’m interested in dev web and blockchain dev.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in game developing.
+- 🌱 I’m currently learning Godot.
 
 <!---
 AmirGoldenBoy/AmirGoldenBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
